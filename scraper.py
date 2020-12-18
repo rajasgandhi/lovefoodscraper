@@ -1,8 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
-import json
+import sys
 
-file = open("out.txt", "w")
+stdout = sys.stdout
+file = open("out.csv", "w")
 URL = 'https://www.lovefoodhatewaste.com/article/food-storage-a-z'
 page = requests.get(URL)
 soup = BeautifulSoup(page.content, 'html.parser')
@@ -30,4 +31,9 @@ for each_div in soup.findAll('div',{'class':'card-body'}):
         "freezemoreinfo" : freezemoreinfo,
         "fresherforlongerinfo" : fresherforlonger
     })
-file.write(json.dumps(items, indent=4))
+with open('out.csv', 'w') as f:
+    sys.stdout = f
+    print("Food Name | How to store? | More storage info | Can you freeze it? | More freezer info | How to make it fresher for longer?")
+    for i in range(len(items)):
+        print(items[i].get('name')+"|"+items[i].get('storage')+"|"+items[i].get('itemmorestorageinfo')+"|"+items[i].get('freeze')+"|"+items[i].get('freezemoreinfo')+"|"+items[i].get('fresherforlongerinfo'))
+    sys.stdout = stdout
