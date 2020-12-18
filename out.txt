@@ -1,0 +1,594 @@
+[
+    {
+        "name": "Apples",
+        "storage": "The fridge is the best place to store Apples.",
+        "itemmorestorageinfo": "For freshness and quality, always store your apples in the fridge in their original packaging.  They will last longer than if left out in a fruit bowl.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Apples can be frozen in slices after they have been quickly cooked in boiling water. Freeze in a single layer, then pack into bags once frozen. You can use the frozen apples to make apple cake or apple sauce.",
+        "fresherforlongerinfo": "One bad apple can spoil the barrel, so keep an eye on your fruit. Separate out fruit which is ripening more quickly than the others.\n                                                                However, don\u2019t throw bruised apples away. Cut off any brown parts and chop the rest into wedges for a snack, or grate the remaining apple into salads. Use up wrinkly or soft fruit in smoothies."
+    },
+    {
+        "name": "Aubergine",
+        "storage": "The fridge is the best place to store aubergine.",
+        "itemmorestorageinfo": "For freshness and quality, always store your aubergine in the fridge in their original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Slice and grill aubergine before freezing to prevent it going mushy. Cooked aubergine can also be frozen.",
+        "fresherforlongerinfo": "Try to cut just before cooking to keep your aubergine fresh."
+    },
+    {
+        "name": "Avocado",
+        "storage": "The fridge is the best place to store avocados.",
+        "itemmorestorageinfo": "If your avocados are ripe, store them in the fridge in their original packaging. If you want them to ripen, store them at room temperature until ripe.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "To freeze your avocado, cut in half, peel and put in a sealable bag or container and freeze. \n                You can also puree or mash the avocados with a fork or in a food processor with a little bit of lime or lemon juice. Store in a resealable bag and freeze. It's a good idea to put indentations in the bag to make for easy portion sizes later.",
+        "fresherforlongerinfo": "If you only need half an avocado, leave the stone in the other half and refrigerate, this will prevent it going black."
+    },
+    {
+        "name": "Bacon",
+        "storage": "The fridge is the best place to store bacon.",
+        "itemmorestorageinfo": "Once a packet is opened, follow the on-pack instructions about how to store it and when to use it up by. All raw meat should be stored at the bottom of the fridge in a clean, sealed container.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Separate a large pack of bacon into slices using greaseproof paper before freezing. Then, you can just defrost what you need at a later date.",
+        "fresherforlongerinfo": "Keep cooked meat separate from raw meat."
+    },
+    {
+        "name": "Baked Goods (Crumpets / Bagels etc.)",
+        "storage": "The cupboard is the best place to store baked goods.",
+        "itemmorestorageinfo": "Store baked goods at room temperature in sealed bags to prevent them from going stale. Beyond Best Before? Most packaged bakery products can be eaten up to a week after the best before. If mould is present, do not use. Some bakery items e.g. some pitta breads are sold in long-life packaging, meaning they can be eaten a month or more after the best before date.",
+        "freeze": "Yes",
+        "freezemoreinfo": "Baked goods like bagels and crumpets can be frozen. Separate and slice before freezing and keep them in sealed packaging, so you can defrost what you need later. They can also be toasted directly from frozen.",
+        "fresherforlongerinfo": "Once the pack is open, re-seal tightly (use a peg or food clip) and store in a bread bin or cupboard."
+    },
+    {
+        "name": "Banana",
+        "storage": "The cupboard is the best place to store bananas.",
+        "itemmorestorageinfo": "Keep your bananas somewhere nice and cool, in a cupboard or on the side, ideally in their original packaging. Bananas will go black in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Bananas can go brown quite quickly so if you see them start to go speckled, peel and freeze them to use later.",
+        "fresherforlongerinfo": "Always keep bananas separate from other fruits unless you want the other fruit to ripen quickly."
+    },
+    {
+        "name": "Beans - All Varieties (Fresh)",
+        "storage": "The fridge is the best place to store beans.",
+        "itemmorestorageinfo": "Fresh beans should be kept in the fridge in their original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "All beans can be frozen! Raw or cooked, ensure beans are stored in a sealed container before freezing. ",
+        "fresherforlongerinfo": "Beans will keep fresher for longer if left whole in their original packaging in the fridge. When you're ready to use them up, wash under running water and chop."
+    },
+    {
+        "name": "Beef",
+        "storage": "The fridge is the best place to store beef.",
+        "itemmorestorageinfo": "All raw meat should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things. Always keep cooked meats in the fridge, well wrapped and away from raw meat.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cooked and raw beef can be frozen in a sealed bag or container. You can also freeze previously frozen meat if it's been cooked.",
+        "fresherforlongerinfo": "If only half a packet of meat is needed, reseal well or store in an airtight container. Store in the fridge or freeze to use later."
+    },
+    {
+        "name": "Beer",
+        "storage": "The fridge is the best place to store beer.",
+        "itemmorestorageinfo": "Canned or bottled beer or cider should be stored in the fridge or a cool place without direct light.",
+        "freeze": "Not suitable for freezing.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "Beetroot",
+        "storage": "The fridge is the best place to store beetroot.",
+        "itemmorestorageinfo": "Fresh beetroot is best stored whole and in the fridge for freshness.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "It is best to freeze beetroot when cooked. First boil or steam the beetroot, allow to cool and pop into a sealed container and freeze.",
+        "fresherforlongerinfo": "Once peeled or cut, store any uneaten beetroot in an airtight container in the fridge"
+    },
+    {
+        "name": "Berries",
+        "storage": "The fridge is the best place to store berries.",
+        "itemmorestorageinfo": "Store berries in their original packaging in the fridge.\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "freeze": "Yes.",
+        "freezemoreinfo": "You can freeze fresh berries on a tray first (so that they don't lump together) and then store in an airtight container in the freezer. Or why not try shop-bought frozen fruit? It is often cheaper than fresh, and you can take as much as you need straight from the freezer.",
+        "fresherforlongerinfo": "Keep your berries in the fridge and only bring to room temperature when you are ready to eat them."
+    },
+    {
+        "name": "Bread",
+        "storage": "The cupboard is the best place to store bread.",
+        "itemmorestorageinfo": "Keep bread and rolls in a fairly cool, dark and dry place, like bread bin or cupboard, in their original packaging. (Clean your bread bin or cupboard regularly to get rid of mould spores.) Beyond Best Before? Most packed bread and packaged bakery products can be eaten two days to up to a week after the best before date. Give it a squeeze! If it feels and looks the same as when you bought it, it's good to eat. If mould is present, do not use.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "You can freeze all varieties of bread. To make it easier to separate bread slices after freezing, bang your loaf gently on a work surface before you put it in the freezer. Slices from a frozen loaf can be defrosted as needed, or toasted straight from the freezer. ",
+        "fresherforlongerinfo": "If you store bread in the fridge it will make it go stale quicker! Once a loaf is opened, fold the wrapper under the loaf or re-tie it with the \u2018best before\u2019 tag or food clip."
+    },
+    {
+        "name": "Broccoli (fresh)",
+        "storage": "The fridge is the best place to store broccoli.",
+        "itemmorestorageinfo": "Broccoli should be stored in the fridge in its original packaging, to keep it at its best.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Chop and blanch broccoli for three minutes before freezing to retain the flavour. Or why not try shop-bought frozen vegetables? It is often cheaper than fresh, and you can take as much as you need straight from the freezer.",
+        "fresherforlongerinfo": "Freshen up broccoli by placing the stem in a jar or glass of water in the fridge."
+    },
+    {
+        "name": "BUTTER OR SPREADS",
+        "storage": "The fridge is the best place to store butter and spreads.",
+        "itemmorestorageinfo": "Butter should be kept in the fridge in a resealable container or packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "You can freeze butter in small squares and add directly to meals when cooking. Butter can also be defrosted in the microwave - use a defrost or low setting for 15 second intervals for best results.",
+        "fresherforlongerinfo": ""
+    },
+    {
+        "name": "Cabbage (fresh)",
+        "storage": "The fridge is the best place to store cabbage.",
+        "itemmorestorageinfo": "Cabbage should be stored it in the fridge, either in its original packaging or alternatively inside a loosely tied plastic bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Blanch sliced cabbage for 90 seconds, then place in ice water before freezing.",
+        "fresherforlongerinfo": "Freshen up cabbage that is looking a bit limp and tired by popping into a bowl of ice-cold water for a few minutes."
+    },
+    {
+        "name": "CAKE",
+        "storage": "The cupboard is the best place to store cake.",
+        "itemmorestorageinfo": "Cake can be stored in an airtight container at room temperature, but if storing in the fridge, wrap first (to avoid absorbing smells and drying out). Enjoy at room temperature. Beyond Best Before? Packet cakes can be eaten up to three months after the best before end date.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cakes can be frozen - it is best to freeze cake in slices, put a piece of greaseproof paper between each slice, before freezing, to stop them from sticking together and you can defrost just what you need.",
+        "fresherforlongerinfo": "Sponges can be refreshed by popping in the oven for a few minutes or microwave to soften up."
+    },
+    {
+        "name": "CARROT (FRESH)",
+        "storage": "The fridge is the best place to store carrots.",
+        "itemmorestorageinfo": "Carrots are best stored in the fridge, either in their original packaging or alternatively inside a loosely tied plastic bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cooked or uncooked carrots can be frozen. You can also add carrot to a stock bag and freeze along with onions and celery as preparation for a stew or soups.",
+        "fresherforlongerinfo": "Bendy carrots? Chop off a small slice from each end and place in cold water. They'll soon perk up."
+    },
+    {
+        "name": "CAULIFLOWER (FRESH)",
+        "storage": "The fridge is the best place to store cauliflower.",
+        "itemmorestorageinfo": "Keep cauliflower fresher for longer by storing it in its original packaging in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Slice cauliflower into small florets and blanch for 90 seconds, then cool in a bowl of ice water before freezing. Or why not try shop-bought frozen vegetables? It is often cheaper than fresh, and you can take as much as you need straight from the freezer.",
+        "fresherforlongerinfo": "Freshen up cauliflower by placing the stem in a jar or glass of water in the fridge."
+    },
+    {
+        "name": "CELERY",
+        "storage": "The fridge is the best place to store celery.",
+        "itemmorestorageinfo": "Celery should be stored in the fridge in its original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Store celery in an airtight container in the freezer, or add to a stock bag in the freezer along with onion and carrots as preparation for a stew or soups.",
+        "fresherforlongerinfo": "Put soft or limp celery into a glass of water in the fridge - it will soon crisp up again."
+    },
+    {
+        "name": "CEREAL",
+        "storage": "The cupboard is the best place to store cereal.",
+        "itemmorestorageinfo": "Once opened, cereals should be stored in their original packaging sealed with a bag clip. Alternatively use an air tight container to keep it fresh. Beyond Best Before? Packet cereal can be eaten up to six months after the best before end date. ",
+        "freeze": "Soft or stale cereal can be refreshed in a hot oven for a couple of minutes to crisp up.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "CHEESE",
+        "storage": "The fridge is the best place to store hard and soft cheese.",
+        "itemmorestorageinfo": "Hard cheese should be stored in an airtight container in the fridge - if you're using its original packaging, you can use a bag clip to seal it up. Blue cheese can be wrapped in tin foil.\nSoft cheeses like Brie, Camembert and Feta should be well wrapped and stored in an airtight container in the fridge. Cream cheese and Ricotta should be stored in their original container and sealed closed.",
+        "freeze": "Yes - Hard Cheese",
+        "freezemoreinfo": "Freeze your hard cheese! If you are buying a big block of hard cheese to make the most of a store bargain, grate it first and freeze to use later. This is good for cheese on toast, on top of baked beans or in an omelette.Not suitable for freezing \u2013 soft cheese.Soft cheese doesn't freeze well, but it can be added to savoury sauces. Try making a pasta sauce with your soft cheese, and then freeze it for another day.",
+        "fresherforlongerinfo": "Fresh parmesan can be expensive. To make it last longer, grate the whole wedge of parmesan into a container and place in the freezer \u2013 it\u2019ll last for ages!"
+    },
+    {
+        "name": "Chicken and Poultry",
+        "storage": "The fridge is the best place to store poultry.",
+        "itemmorestorageinfo": "All raw poultry should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "You can freeze raw and cooked poultry right up to the 'use by' date. Cut raw chicken breasts into strips, lay them out on a tray and put the tray in the freezer. Once frozen you can pack the strips in bags and then use as many as you need each time, as they can be quickly added to stir fries and cooked from frozen.",
+        "fresherforlongerinfo": "Always keep cooked meats in the fridge, well wrapped and away from raw meat."
+    },
+    {
+        "name": "CHICKPEAS",
+        "storage": "The cupboard is the best place to store chickpeas.",
+        "itemmorestorageinfo": "Once opened, leftover chickpeas should be stored in an airtight container in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Chickpeas freeze well and should be frozen in a sealed container. You can add to soups, stews or curries straight from frozen.",
+        "fresherforlongerinfo": "Never store food in open cans in the fridge, as the metal of the can may transfer to the contents."
+    },
+    {
+        "name": "CITRUS FRUITS",
+        "storage": "The fridge is the best place to store citrus fruits.",
+        "itemmorestorageinfo": "Citrus fruits should be stored in their original packaging in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "All citrus fruits can be simply sliced and frozen, or juiced into ice cube trays for adding to drinks and cooking. If you freeze the skins, this will make them much easier to zest with a grater if you want to use them later. ",
+        "fresherforlongerinfo": "Keep your citrus fruits in the fridge and only bring to room temperature when you are ready to eat them."
+    },
+    {
+        "name": "COURGETTE",
+        "storage": "The fridge is the best place to store courgettes.",
+        "itemmorestorageinfo": "Courgettes should be stored in the fridge in their original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cut courgettes lengthways and grill before freezing.",
+        "fresherforlongerinfo": "Freshen up courgette by putting the stalk end in a jar or glass of water in the fridge. "
+    },
+    {
+        "name": "CREAM",
+        "storage": "The fridge is the best place to store cream.",
+        "itemmorestorageinfo": "Cream should be stored in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Whip leftover fresh cream before you freeze it to prevent it becoming grainy when thawed. Double cream will freeze better than single.",
+        "fresherforlongerinfo": "Try buying long-life cream for cooking so you always have it on hand when you need it. It also lasts longer when opened."
+    },
+    {
+        "name": "CUCUMBER (FRESH)",
+        "storage": "The fridge is the best place to store cucumber.",
+        "itemmorestorageinfo": "Store cucumber in the fridge in its original packaging.",
+        "freeze": "Not suitable for freezing.",
+        "freezemoreinfo": "Foods with high water content, like lettuce and cucumber, do not freeze well.",
+        "fresherforlongerinfo": "Freshen up cucumber by putting the stalk end in a jar or glass of water in the fridge. "
+    },
+    {
+        "name": "DELI MEATS",
+        "storage": "The fridge is the best place to store deli meats.",
+        "itemmorestorageinfo": "Store deli meats in an airtight container in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Slice and separate cooked meats with greaseproof paper before freezing. They can then be defrosted as needed.",
+        "fresherforlongerinfo": "Always reseal open packets of sliced meats to keep them fresher for longer."
+    },
+    {
+        "name": "Dips",
+        "storage": "The fridge is the best place to store dips",
+        "itemmorestorageinfo": "Store your dips in the fridge make sure they are sealed to make them last longer.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "EGGS",
+        "storage": "The fridge is the best place to store eggs.",
+        "itemmorestorageinfo": "Store your eggs in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Simply crack your eggs into a sealable container and freeze. You can separate yolks from whites first if you want to use them for different dishes. Make sure you label the containers so you can easily identify them later on.",
+        "fresherforlongerinfo": "Eggs are best kept in their box to protect them, in the fridge."
+    },
+    {
+        "name": "Fish (salmon, sea bass, cod, haddock etc)",
+        "storage": "The fridge is the best place to store fish.",
+        "itemmorestorageinfo": "All raw fish should be wrapped tightly or stored in an airtight container, away from cooked foods and at the bottom of the fridge to stop it touching or dripping onto other items. When buying tinned fish never store in open cans in the fridge, as the metal of the can may transfer to the contents. Put it into a sealable container instead. Beyond Best Before? Unopened canned fish can be eaten up to three years after the best before end date.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Make sure fish is sealed in a container before freezing. Check the packaging of fresh fish before freezing as some fish cannot be frozen. Or why not try shop-bought frozen fish? It is often cheaper than fresh, and you can take as much as you need straight from the freezer.",
+        "fresherforlongerinfo": "Tinned fish - salmon, tuna and sardines - are a cheaper and delicious alternative to fresh fish."
+    },
+    {
+        "name": "FIZZY DRINKS",
+        "storage": "The cupboard is the best place to store fizzy drinks.",
+        "itemmorestorageinfo": "Fizzy drinks should be re-sealed tightly and stored in the fridge or cupboard.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Freeze fizzy drinks into moulds.",
+        "fresherforlongerinfo": "Consider buying smaller cans or bottles if you frequently waste soft drinks. Soft drinks that have gone flat are great for freezing into ice lollies."
+    },
+    {
+        "name": "FROZEN FOOD",
+        "storage": "Frozen food products are usually labelled Best Before End. On the packaging there is a guide stating how long the food can be stored that uses a star rating to indicate best quality. The star-rating reflects the length of time the product is likely to remain in good condition. Frozen properly, shop-bought frozen food should be safe to eat for months after the Best Before End date. Eventually, even well-frozen food will deteriorate.",
+        "itemmorestorageinfo": "",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Freeze fizzy drinks into moulds.",
+        "fresherforlongerinfo": "Consider buying smaller cans or bottles if you frequently waste soft drinks. Soft drinks that have gone flat are great for freezing into ice lollies."
+    },
+    {
+        "name": "FRUIT JUICE",
+        "storage": "The fridge is the best place to store fruit juice.",
+        "itemmorestorageinfo": "Store opened juices in the fridge or according to pack instruction.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Make your own ice lollies from leftover smoothies, apple and orange juice.",
+        "fresherforlongerinfo": "Writing a \"drink by\" date on an open carton will help to ensure it is used up."
+    },
+    {
+        "name": "GARLIC",
+        "storage": "The fridge is the best place to store garlic.",
+        "itemmorestorageinfo": "A cool dry place or in the fridge is the best place to store garlic to keep it fresher for longer.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Crush peeled cloves with a little water and freeze the puree into ice cube trays, ready to use from frozen. Once frozen, tip the cubes into an airtight container.",
+        "fresherforlongerinfo": "According to Good Housekeeping, garlic keeps longest at 15\u00b0C in moderate humidity. However, if your cool dry place is really dry, the garlic won\u2019t appreciate it. Storing garlic in the fridge takes care of the humidity, although it might start to sprout. If it does, it\u2019s still edible."
+    },
+    {
+        "name": "GRAPES",
+        "storage": "The fridge is the best place to store grapes.",
+        "itemmorestorageinfo": "Keep grapes fresher for longer by storing them in their original packaging in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "HERBS",
+        "storage": "The fridge is the best place to store herbs.",
+        "itemmorestorageinfo": "Keep herbs in their original packaging in the fridge. For 'Living/potted' herbs, follow the instructions on the packaging or consider re-potting.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "It\u2019s worth freezing herbs that you use regularly, such as mint, parsley, chives, and tarragon. Wash and dry them before freezing whole in freezer bags, or chopped into ice cube trays covered with water. They can be cooked from frozen in casseroles, stews and sauces.",
+        "fresherforlongerinfo": "Keep herbs fresher for longer by keeping them in their original packaging in the fridge. Alternatively, place your fresh herbs into a half-filled jar with cold water. Keep in the door of your fridge, and change the water every few days. Garlic is best stored in a cool, dry place, but not the fridge. Cleaned, washed and dried fresh parsley will keep for more than 10 days in a tightly-closed plastic box between layers of paper towel."
+    },
+    {
+        "name": "HONEY",
+        "storage": "The cupboard is the best place to store honey.",
+        "itemmorestorageinfo": "Keep honey in a cool location, away from direct sunlight in a tightly sealed container.",
+        "freeze": "Not suitable for freezing.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "LAMB (Raw, Cooked)",
+        "storage": "The fridge is the best place to store lamb.",
+        "itemmorestorageinfo": "All raw meat should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Raw and cooked lamb can be frozen in a sealed bag or container. You can also freeze previously frozen meat if it's been cooked.",
+        "fresherforlongerinfo": "All raw meat should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things."
+    },
+    {
+        "name": "LEEK",
+        "storage": "The fridge is the best place to store leeks.",
+        "itemmorestorageinfo": "Keep leeks fresh by storing them in the fridge in their original packaging, or alternatively inside a loosely tied plastic bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "Lettuce",
+        "storage": "The fridge is the best place to store lettuce.",
+        "itemmorestorageinfo": "Store all varieties of lettuce in the fridge in their original packaging, or alternatively inside a loosely tied plastic bag.",
+        "freeze": "No.",
+        "freezemoreinfo": "Foods with high water content, like lettuce and cucumber, do not freeze well.",
+        "fresherforlongerinfo": "Add a piece of kitchen roll to bagged lettuce before sealing with a bag clip, or put lettuce leaves in a tub lined with a piece of kitchen paper to keep them fresh. Lettuce gone a bit limp? Soak individual leaves in a bowl of cold water in the fridge - they'll soon perk up."
+    },
+    {
+        "name": "MAYONNAISE",
+        "storage": "The fridge is the best place to store mayonnaise.",
+        "itemmorestorageinfo": "Once opened, reseal and store in the fridge.",
+        "freeze": "Not suitable for freezing.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "Melon",
+        "storage": "The fridge is the best place to store melon",
+        "itemmorestorageinfo": "Cut melon should be stored in the fridge. Whole melon should be stored in a cupboard or a fruit bowl.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "MILK",
+        "storage": "The fridge is the best place to store milk.",
+        "itemmorestorageinfo": "Store your milk in the fridge. Once opened, long life milk should be stored in the fridge. Always follow on-pack guidance.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "MUSHROOMS",
+        "storage": "The fridge is the best place to store mushrooms.",
+        "itemmorestorageinfo": "The best way to store mushrooms is in the fridge in their original packaging or in a paper bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "You can freeze mushrooms raw or cooked. Slice and freeze on a tray (or they'll stick together) and transfer to a sealed container.",
+        "fresherforlongerinfo": "If you buy large punnets of mushrooms you can keep them fresher for longer by covering them with a tea towel folded into layers and tucking it quite tightly inside the punnett, like a snug blanket. Then keep the mushrooms in the bottom of the fridge and don't forget to tuck the rest back in every time you take some out."
+    },
+    {
+        "name": "Non-Dairy Milks ",
+        "storage": "The fridge is the best place to store non-dairy milks.",
+        "itemmorestorageinfo": "Store fresh milk in the fridge. Ambient or long life milk, once opened, should be stored in the fridge. Always follow on-pack guidance.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "NUTS AND SEEDS",
+        "storage": "The cupboard is the best place to store Nuts and Seeds.",
+        "itemmorestorageinfo": "Store nuts in their original pack, sealed with a clip, or in an airtight container in a cool dry place.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Nuts can be frozen - make sure they are sealed in a freezer bag or airtight container.",
+        "fresherforlongerinfo": "Freshen up any type of nut by toasting them on a baking sheet in the oven for 10 minutes."
+    },
+    {
+        "name": "OIL",
+        "storage": "The cupboard is the best place to store oil.",
+        "itemmorestorageinfo": "Store at room temperature in a dry place.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "ONION (fresh and Spring Onion)",
+        "storage": "The cupboard is the best place to store onions.",
+        "itemmorestorageinfo": "Onions (brown, red, white) are best stored in a cool, dry, dark place, ideally in a cloth bag. Spring onions should be stored in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "PARSNIP",
+        "storage": "The fridge is the best place to store parnips.",
+        "itemmorestorageinfo": "Store parsnips in the fridge in their original packaging, or alternatively inside a loosely tied plastic bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cooked or uncooked parsnips can be frozen. You can blanch in boiling water for a few minutes and cool in ice water or roast in the oven before freezing.",
+        "fresherforlongerinfo": "Bendy parsnips? Chop off a small slice from each end and place in cold water. They'll soon perk up.."
+    },
+    {
+        "name": "PASTA (Fresh and Dried)",
+        "storage": "The cupboard is the best place to store pasta.",
+        "itemmorestorageinfo": "Store dry pasta in its original pack, sealed with a clip, or in an airtight container in a cool dry place. Fresh pasta should be stored in the fridge. Always follow on-pack guidance. Beyond Best Before? Dried/foil-pack pasta can be eaten up to three years after the best before end date.                                     \n\n\n\n\n\n\n\n\n\n\n\n\n                                                        Ensure your fridge is set to below 5\u00b0c check your temperature using our handy tool\n                                                    \n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                    Ensure your fridge is set to below 5\u00b0c check your temperature using our handy tool\n                                                                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCAN I FREEZE IT?\nYes.\n\n\nCooked too much pasta? Rinse it in cold water and freeze in meal-sized portions. These can be reheated in a microwave or in boiling water when needed.\n\n\n\n",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "PASTRIES",
+        "storage": "The cupboard is the best place to store pastries.",
+        "itemmorestorageinfo": "Keep pastries in a cool, dark and dry place, like bread bin or cupboard, in their original packaging, sealed with a bag clip.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Wrap tightly and freeze. They can then be reheated in the oven straight from the freezer.",
+        "fresherforlongerinfo": "Sprinkle pastries going slightly stale with water and pop in the oven for five minutes to freshen them up."
+    },
+    {
+        "name": "PEAR",
+        "storage": "The fridge is the best place to store pears.",
+        "itemmorestorageinfo": "For freshness and quality, store pears in the fridge, ideally in their original packaging or in a loosely tied plastic bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Pears can be frozen in slices after they have been quickly cooked in boiling water. Freeze in a single layer to stop them sticking together, then pack into bags once frozen.",
+        "fresherforlongerinfo": "Separate out fruit which is ripening more quickly than the rest. Don\u2019t throw bruised pears away - instead, cut off any brown parts and chop the rest into wedges for a snack, or grate the remaining pear into salads."
+    },
+    {
+        "name": "PEPPERS (Fresh)",
+        "storage": "The fridge is the best place to store peppers.",
+        "itemmorestorageinfo": "Store them in the fridge in their original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Peppers freeze perfectly. Chop or slice your peppers, pop them in an airtight container and freeze. They can be used straight from frozen.",
+        "fresherforlongerinfo": "If you only used part of a pepper, keep the stalk and seeds attached to the remainder and it will keep fresher for longer."
+    },
+    {
+        "name": "PINEAPPLE",
+        "storage": "The cupboard is the best place to store pineapples.",
+        "itemmorestorageinfo": "Keep your whole pineapple somewhere nice and cool, in a cupboard or on the side. While it is whole, it should not be kept in the fridge. Once chopped, store in the fridge in an airtight container.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "PORK (chops, roasting joint etc)",
+        "storage": "The fridge is the best place to store pork.",
+        "itemmorestorageinfo": "All raw meat should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Raw and cooked pork can be frozen. Separate raw pork slices with greaseproof paper and seal in an airtight container before freezing.",
+        "fresherforlongerinfo": "Keep cooked meat separate from raw meat."
+    },
+    {
+        "name": "POTATO (fresh)",
+        "storage": "The cupboard is the best place to store potatoes.",
+        "itemmorestorageinfo": "Store your potatoes in a cool, dry, dark place, ideally in a cloth bag and away from strong-smelling foods like onions.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Leftover cooked potatoes can be frozen. You can also roast boiled potatoes straight from the freezer - pop them in the oven with a little oil to crisp up.",
+        "fresherforlongerinfo": "To store cooked potatoes, cool them as quickly as possible, ideally within one or two hours, and then store in the fridge for up to two days. If potatoes have sprouted, simply remove the sprouts before use, and remember to cut off any green or rotten bits before using."
+    },
+    {
+        "name": "PULSES",
+        "storage": "The cupboard is the best place to store pulses.",
+        "itemmorestorageinfo": "Store dry pulses in their original pack, sealed with a clip, or in an airtight container in a cool dry place. When buying tinned pulses never store in open cans in the fridge, as the metal of the can may transfer to the contents. Put them into a sealable container instead. Beyond Best Before? Packed dried pulses can be eaten up to three years after the best before end date.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "RICE (Cooked and uncooked)",
+        "storage": "The cupboard is the best place to store rice.",
+        "itemmorestorageinfo": "Store dry rice and grains in their original pack, sealed with a clip, or in an airtight container in a cool dry place. Cooked rice should be served and eaten immediately. If you have cooked too much, cool cooked rice quickly under cold water, drain and store in the fridge or freezer in an airtight container, ideally within one hour. Leftover cooked rice can be kept in the fridge for one day - always re-heat until piping hot before eating.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "SALAD LEAVES",
+        "storage": "The fridge is the best place to store salad leaves.",
+        "itemmorestorageinfo": "Store all varieties of salad leaves in the fridge in their original packaging, or alternatively inside a loosely tied plastic bag.",
+        "freeze": "Not suitable for freezing.",
+        "freezemoreinfo": "Foods with high water content, like lettuce and cucumber, do not freeze well.",
+        "fresherforlongerinfo": "Add a piece of kitchen roll to bagged lettuce before sealing with a bag clip, or put lettuce leaves in a tub lined with a piece of kitchen paper to keep them fresh."
+    },
+    {
+        "name": "Sauces",
+        "storage": "The fridge is the best place to store sauces",
+        "itemmorestorageinfo": "Store your leftover homemade sauce in the fridge and use within a couple of days or freeze. For leftover shop-bought sauces it\u2019s best to follow the storage guidance on the pack or jar - open jars should be stored in the fridge. Beyond Best Before? Unopened jars of sauce can be eaten up to three years after the best before end date.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "If you\u2019ve made too much sauce for a dish, decant into an airtight tub or freezer bag and freeze. Defrost in the fridge and use within 24 hours.",
+        "fresherforlongerinfo": "Leftover sauces can be added straight from frozen, to a wide range of dishes, to add some extra flavour."
+    },
+    {
+        "name": "SAUSAGES",
+        "storage": "The fridge is the best place to store them sausages.",
+        "itemmorestorageinfo": "All raw meat should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Raw and cooked sausages can be frozen. Separate into portion sizes before freezer, so that you can just defrost one portion at a time. Defrost in the fridge overnight.",
+        "fresherforlongerinfo": "Always keep cooked meats in the fridge, well wrapped and away from raw meat. "
+    },
+    {
+        "name": "SHELLFISH (mussels, prawns, clams, crab etc)",
+        "storage": "The fridge is the best place to store shellfish.",
+        "itemmorestorageinfo": "All raw fish should be stored at the bottom of the fridge in a clean, sealed container to stop it touching or dripping onto other things.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "SPICES",
+        "storage": "The cupboard is the best place to store spices.",
+        "itemmorestorageinfo": "Spices should be stored in an airtight container or jar, in a cool dry place and away from direct sunlight.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "SPINACH",
+        "storage": "The fridge is the best place to store spinach.",
+        "itemmorestorageinfo": "Keep spinach fresh by storing in its original packaging in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Wash spinach and steam for two to three minutes. Squeeze out the excess water from the cooked spinach and divide into plastic bags or containers and freeze. Add to any pasta dish, mince, stews or soups when needed. Or why not try shop-bought frozen vegetables? It is often cheaper than fresh, and you can take as much as you need straight from the freezer.",
+        "fresherforlongerinfo": "Like salad leaves, pop a piece of kitchen towel in the bag and use a bag clip to seal. This will absorb any excess moisture."
+    },
+    {
+        "name": "SQUASH (butternut, pumpkin etc)",
+        "storage": "The cupboard is the best place to store squashes and pumpkins.",
+        "itemmorestorageinfo": "Store your whole, uncut squash in a cool, dark place, like a cupboard.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Roast or mash squash before freezing. Make sure to freeze in an airtight container or bag.",
+        "fresherforlongerinfo": "Once the squash has been cut, wrap tightly and store in the fridge."
+    },
+    {
+        "name": "STONE FRUITS (plums, peaches)",
+        "storage": "The fridge is the best place to store stone fruits.",
+        "itemmorestorageinfo": "Store your stone fruit in the fridge, in its original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Cut fruits in half or into slices and freeze on a tray, before transferring to an airtight container. Alternatively, you can stew them with some fruit juice to make a pie filling and freeze that.",
+        "fresherforlongerinfo": "Separate out fruit which is ripening more quickly than the rest. Don\u2019t throw bruised fruits away - instead, cut off any brown parts and chop the rest into wedges for a snack."
+    },
+    {
+        "name": "SUGAR",
+        "storage": "The cupboard is the best place to store sugar.",
+        "itemmorestorageinfo": "Store in an airtight container at room temperature.",
+        "freeze": "No.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "SWEETCORN AND CORN ON THE COB (fresh)",
+        "storage": "The fridge is the best place to store sweetcorn.",
+        "itemmorestorageinfo": "Store fresh corn in the fridge, in its original packaging.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "SWEET POTATO",
+        "storage": "The cupboard is the best place to store sweet potato.",
+        "itemmorestorageinfo": "Store in a cool, dry, dark place, ideally in a cloth bag.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "To freeze, wash, peel and boil until tender, slice or mash and sprinkle with lemon juice to stop them from going brown. Cool and put into a container or freezer bag.",
+        "fresherforlongerinfo": "To store leftover cooked sweet potato, cool them as quickly as possible, ideally within one or two hours, and then store in the fridge for up to two days. If potatoes have sprouted, simply remove the sprouts before use, and remember to cut off any green or rotten bits before using."
+    },
+    {
+        "name": "TOMATO (fresh)",
+        "storage": "The fridge is the best place to store tomatoes.",
+        "itemmorestorageinfo": "Store your tomatoes in the fridge in their original packaging to keep them fresher for longer. For best taste, take them out of the fridge up to 24 hours before eating them.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Whole cherry tomatoes can be frozen and used straight from the freezer. Try making a sauce with any squishy tomatoes and freezing this for use in pasta or casserole dishes another day.",
+        "fresherforlongerinfo": "Slow roast tomatoes that are going past their best - once cooled, cover with oil in an airtight container and store in the fridge. Enjoy the fresh tomato flavour for longer!"
+    },
+    {
+        "name": "WHOLE GRAIN (freekeh,bulgar wheat, millet)",
+        "storage": "The cupboard is the best place to store whole grains.",
+        "itemmorestorageinfo": "Store dry whole grains in their original packaging, sealed with a clip, or in an airtight container in a cool dry place. Cooked whole grains should be served and eaten immediately. If you have cooked too much, cool cooked grains quickly under cold water, drain and store in the fridge or freezer in an airtight container, ideally within one hour. Leftover cooked whole grains can be kept in the fridge for one day - always re-heat until piping hot before eating.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    },
+    {
+        "name": "WINE",
+        "storage": "The cupboard is the best place to store wine.",
+        "itemmorestorageinfo": "Store wines in a cool dark place or in the fridge once opened.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "Freeze leftover wine in ice cube trays then store in an airtight container.",
+        "fresherforlongerinfo": "Re-cork wine after every glass poured."
+    },
+    {
+        "name": "YOGHURT",
+        "storage": "The fridge is the best place to store yoghurt.",
+        "itemmorestorageinfo": "Store yoghurt in the fridge.",
+        "freeze": "Yes.",
+        "freezemoreinfo": "none",
+        "fresherforlongerinfo": "none"
+    }
+]
