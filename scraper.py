@@ -24,16 +24,17 @@ for each_div in soup.findAll('div',{'class':'card-body'}):
         freezemoreinfo = cardadvice[3].text
         fresherforlonger = cardadvice[4].text
     items.append({
-        "name" : itemname,
-        "storage" : itemstorage,
-        "itemmorestorageinfo" : itemmorestorageinfo,
-        "freeze" : itemfreeze,
-        "freezemoreinfo" : freezemoreinfo,
-        "fresherforlongerinfo" : fresherforlonger
+        "name" : itemname.replace('\n', ' ').replace('\r', ''),
+        "storage" : itemstorage.replace('\n', ' ').replace('\r', ''),
+        "itemmorestorageinfo" : itemmorestorageinfo.replace('\n', ' ').replace('\r', ''),
+        "freeze" : itemfreeze.replace('\n', ' ').replace('\r', ''),
+        "freezemoreinfo" : freezemoreinfo.replace('\n', ' ').replace('\r', ''),
+        "fresherforlongerinfo" : fresherforlonger.replace('\n', ' ').replace('\r', '')
     })
 with open('out.csv', 'w') as f:
     sys.stdout = f
     print("Food Name,How to store?,More storage info,Can you freeze it?,More freezer info,How to make it fresher for longer?")
     for i in range(len(items)):
         print("\"\"\""+items[i].get('name')+"\"\"\",\"\"\""+items[i].get('storage')+"\"\"\",\"\"\""+items[i].get('itemmorestorageinfo')+"\"\"\",\"\"\""+items[i].get('freeze')+"\"\"\",\"\"\""+items[i].get('freezemoreinfo')+"\"\"\",\"\"\""+items[i].get('fresherforlongerinfo')+"\"\"\"")
+
     sys.stdout = stdout
